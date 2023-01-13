@@ -1,0 +1,158 @@
+.navbar-item img {
+    max-height: 3.5rem;
+}
+
+.container {
+    padding-top: 3rem;
+}
+
+.home-page-announcement {
+    font-weight: 700;
+    font-size: 4rem;
+    line-height: 1.2;
+}
+
+.mission-page-announcement {
+    font-weight: 400;
+    font-size: 2rem;
+    line-height: 1.2;
+}
+
+.grey-container {
+    background-color: ghostwhite;
+    padding-top: 1rem;
+    margin-top: 2rem;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.white-container {
+    background-color: #ffff;
+    padding-top: 1rem;
+    margin-top: 2rem;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.footer {
+    background-color: #fafafa;
+    padding: 2rem 1.5rem 2rem;
+}
+
+h1 {
+    font-size: 40px;
+    line-height: 1.2;
+    font-weight: 700;
+}
+
+.title-paragraph {
+    padding-top: 1.2rem;
+}
+
+.fixed-navbar {
+    width: auto;
+    z-index: 100;
+    position: fixed;
+}
+
+.detail {
+    color: #f0155c;
+    margin-bottom: 2px;
+    font-size: 14px;
+    line-height: 1.8;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+}
+
+img {
+    height: 4rem;
+}
+
+h2 {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.section {
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+
+.is-gradient-button {
+    background-color: #1552f0;
+    line-height: 1.8;
+    font-weight: 600;
+    color:#ffff
+    /* letter-spacing: 0.08em; */
+}
+
+.chose-card {
+    background: ghostwhite;
+    border-radius: 0.25rem;
+    box-shadow: 0 0.5em 1em -0.125em rgb(10 10 10 / 10%), 0 0 0 1px rgb(10 10 10 / 2%);
+    margin-bottom: 2rem !important;
+}
+
+.testimonial-name {
+    color: #443fde
+}
+
+.testimonial-text {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.5;
+}
+
+.testimonial-image {
+    height: auto;
+    border-radius: 0.25rem;
+    box-shadow: 0 0.5em 1em -0.125em rgb(10 10 10 / 10%), 0 0 0 1px rgb(10 10 10 / 2%);
+}
+
+.faq-header {
+    background-color: #1552f0;
+}
+
+.tiobe-index {
+    color: #1552f0;
+}
+
+.spring-warmth {
+    background-image: linear-gradient(to top, #fad0c4 0%, #ffd1ff 100%);
+    padding-top: 1rem;
+    margin-top: 2rem;
+    padding: 2rem;
+    /* background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%); */
+}
+
+.st-petersberg {
+    background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+}
+
+.card-header {
+    box-shadow: 0 24px 72px rgb(0 0 0 / 10%);
+}
+
+.price {
+    font-size: 2rem;
+    font-weight: 900;
+}
+
+.pet-card-title {
+    font-weight: 700;
+    font-size: 1.5rem;
+    line-height: 1.5rem;
+    color: rgb(130, 135, 235);
+}
+
+.pat-card-title {
+    font-weight: 700;
+    font-size: 1.5rem;
+    line-height: 1.5rem;
+    color: rgb(32, 182, 158);
+}
+
+.whatsapp-image {
+    height: auto;
+}
