@@ -2,6 +2,11 @@
     max-height: 3.5rem;
 }
 
+.navbar-item {
+    margin-right: 5rem;
+    font-weight: 900;
+}
+
 .container {
     padding-top: 3rem;
 }
@@ -160,4 +165,17 @@ h2 {
 .main-section {
     padding-left: 30px;
     padding-right: 30px;
+}
+
+
+@media screen and (max-width: 499px) {
+    .home-page-announcement {
+        font-weight: 700;
+        font-size: 2rem;
+        line-height: 1.2;
+    }
+}
+
+.active-navbar {
+    color: #1552f0;
 }
