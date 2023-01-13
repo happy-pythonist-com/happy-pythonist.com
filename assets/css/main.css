@@ -156,3 +156,8 @@ h2 {
 .whatsapp-image {
     height: auto;
 }
+
+.main-section {
+    padding-left: 30px;
+    padding-right: 30px;
+}
